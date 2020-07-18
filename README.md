@@ -38,11 +38,12 @@ Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently,
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Just a Introduction:**
-Hello world, I am a university student doing my undergraduate BCA from Rajasthan University Maharani college and I am passionate about technology and want to learn + explore new technologies
+
+💻 Hello world, I am a university student doing my undergraduate BCA from Rajasthan University Maharani college and I am passionate about technology and want to learn + explore new technologies
 
 **Talking about Personal Stuffs:**
 
-- 👨💻 I’m currently partcipating in as much Hackathons as I can
+- 👨 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning ML and cybersecurity
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020
