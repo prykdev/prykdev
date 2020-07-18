@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently, I'm a Team Member 🙍🏽‍♂️ [@](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@gurugram], Internee 👨🏽‍💼. Beside's Computer Science, I love photography.
+Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently, I'm a Team Member💻 [@](https://jscoeiotclub.in/), Intern 👧🏽‍💻 [@gurugram], Internee 👧🏽‍💼. Beside's Computer Science, I love photography.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
