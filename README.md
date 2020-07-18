@@ -17,17 +17,17 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://twitter.com/SanketP12344827">
-<img align="left" alt="Sanket Patil | Twitter" width="22px" src="https://twitter.com/Priyank43692137" />
+<a href="https://twitter.com/Priyank43692137 ">
+<img align="left" alt="priyanka prasad | Twitter" width="22px" src="  https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/sanket-patil-b4134362/">
-<img align="left" alt="Sanket's LinkdeIN" width="22px" src="https://www.linkedin.com/in/priyanka-prasad-/" />
+<a href="https://www.linkedin.com/in/priyanka-prasad-/">
+<img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Patil_Sanket">
-<img align="left" alt="Sanket's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/Priyanka Prasad:Tec-177">
+<img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/____sanket____patil____/">
-<img align="left" alt="Sanket's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/technology.warriors/">
+<img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
@@ -56,4 +56,4 @@ Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently,
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&hide_border=true)
+![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&hide_border=true)
