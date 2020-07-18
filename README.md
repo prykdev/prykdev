@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://twitter.com/Priyank43692137">
-<img align="left" alt="priyanka prasad | Twitter" width="22px" src="  https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanka-prasad-/">
 <img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently, I'm a Team Member 🙍🏽‍♂️ [@IoT-Club](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@gurugram], Internee 👨🏽‍💼. Beside's Computer Science, I love photography.
+Hi, I'm Priyanka prasad, aStudent  and lerner 🚀 from bihar, India, currently, I'm a Team Member 🙍🏽‍♂️ [@  ](https://jscoeiotclub.in/), Intern 👨🏽‍💻 [@gurugram], Internee 👨🏽‍💼. Beside's Computer Science, I love photography.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
