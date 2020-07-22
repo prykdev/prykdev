@@ -43,7 +43,9 @@ Hi, I'm Priyanka prasad, A Student  and lerner 🚀 from bihar, India, currently
 
 💻 Hello world, I am a university student doing my undergraduate BCA from Rajasthan University Maharani college and I am passionate about technology and want to learn + explore new technologies
 
-**Talking about Personal Stuffs:**
+
+<details> <summary>**Talking about Personal Stuffs:**</summary> 
+  
 
 - 😄 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning ML and cybersecurity
@@ -51,7 +53,7 @@ Hi, I'm Priyanka prasad, A Student  and lerner 🚀 from bihar, India, currently
 - ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
-
+</details>
 **Languages and Tools:**
 
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code> -->
