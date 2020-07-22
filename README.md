@@ -55,7 +55,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 - 😄 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning ML and cybersecurity
 - 💬 Ask me about anything, I am happy to help
-- ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020
+- ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also i have a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
 
