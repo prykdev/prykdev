@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <br />
 
 
-Hi, I'm Priyanka prasad, A Student  and lerner 🚀 from bihar, India, currently, I'm a Team Member💻 [@](https://jscoeiotclub.in/), Intern 👧🏽‍💻 [@gurugram], Internee 👧🏽‍💼. Beside's Computer Science, I love photography.
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently, I'm a Team Member💻 [@](https://jscoeiotclub.in/), Intern 👧🏽‍💻 [@gurugram], Internee 👧🏽‍💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
@@ -54,7 +54,7 @@ Hi, I'm Priyanka prasad, A Student  and lerner 🚀 from bihar, India, currently
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-prasad&repo=github-readme-stats)](https://github.com/priyanka-prasad/github-readme-stats)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-prasad&repo=github-readme-stats)](https://github.com/priyanka-prasad/github-readme-stats)
 
 
 **Languages and Tools:**
