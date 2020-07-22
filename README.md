@@ -54,7 +54,8 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-prasad&repo=github-readme-stats)](https://github.com/priyanka-prasad/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 **Languages and Tools:**
