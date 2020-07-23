@@ -55,10 +55,10 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
 
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 **Languages and Tools:**
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
 
 <!--<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>-->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
