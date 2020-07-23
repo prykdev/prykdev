@@ -58,7 +58,10 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 - ⚡️ Fun-Fact: I started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also i have a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
+
+<p align="center">
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /> 
+</p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects)](https://github.com/anuraghazra/Python_codecademy_projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects)](https://github.com/anuraghazra/Python_codecademy_projects)
