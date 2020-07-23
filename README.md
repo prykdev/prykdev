@@ -74,10 +74,16 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
 
-
 <p align="center">
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /> 
 </p>
+
+<p align="center">
+ 
+ <h2>     </h2>
+
+</p>
+
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)](https://github.com/anuraghazra/Python_codecademy_projects)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)](https://github.com/anuraghazra/Python_codecademy_projects)
