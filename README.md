@@ -39,14 +39,15 @@ Here are some ideas to get you started:
 <br >
 <br />
 
+**Just a Introduction:**
 
-Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently, I'm a Team Member💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram](https://www.linkedin.com/company/haryana/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,💻 doing my undergraduate BCA from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Team Member💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-**Just a Introduction:**
 
-💻 Hello world, I am a university student doing my undergraduate BCA from Rajasthan University Maharani college and I am passionate about technology and want to learn + explore new technologies
+
+
 
 
 **Talking about Personal Stuffs:**
@@ -65,8 +66,8 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" /> 
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects)](https://github.com/anuraghazra/Python_codecademy_projects)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects)](https://github.com/anuraghazra/Python_codecademy_projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)](https://github.com/anuraghazra/Python_codecademy_projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)](https://github.com/anuraghazra/Python_codecademy_projects)
 
 
 
@@ -81,8 +82,4 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently,
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code> 
 
 ![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&theme=tokyonight)
-
-<br >
-<br />
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-riyanka-prasad&theme=tokyonight)
