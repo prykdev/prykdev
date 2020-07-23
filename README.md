@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <br />
 
 
-Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently, I'm a Team Member💻 [@](https://jscoeiotclub.in/), Intern 👧💻 [@gurugram], Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently, I'm a Team Member💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram], Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
