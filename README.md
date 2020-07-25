@@ -59,7 +59,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 ## Connect with Me 🤝🏻
-(https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://twitter.com/Priyank43692137) [![Twitter]
+
 
 
 
