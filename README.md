@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  
 
 <!--
 **P-riyanka-prasad/P-riyanka-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 **Just a Introduction:**
 
-Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Team Member💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 💻 doing my undergraduate BCA (2nd year) from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies I'm a Team Member💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram police](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
 **Talking about Personal Stuffs:**
   
@@ -52,7 +52,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
 - 😄 Pronouns She/Her
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also i have a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
+- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
 
