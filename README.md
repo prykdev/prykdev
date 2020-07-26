@@ -16,8 +16,21 @@ Here are some ideas to get you started:
 -->
 <p align="center">
  
+ 
+ <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+
+ 
  <h2 align="center">Welcome To My Repository</h2>
  <p align="center">Priyanka Prasad </p>
+</p>
+
+
+
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/P-riyanka-prasad/count.svg" />
 </p>
 
 
