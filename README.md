@@ -68,7 +68,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning ML and cybersecurity
+- 🌱 I’m currently learning ML 
 - 💬 Ask me about anything, I am happy to help
 - 👯 I’m looking to collaborate on making any tech community
 - 😄 Pronouns She/Her
