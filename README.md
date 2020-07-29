@@ -70,7 +70,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning ML 
 - 💬 Ask me about anything, I am happy to help
-- 👯 I’m looking to collaborate on making any tech community
+<!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns She/Her
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Technology.warriors](https://www.instagram.com/technology.warriors/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
