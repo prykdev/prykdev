@@ -1,4 +1,4 @@
-### Hi there 👋  
+### Hi there  <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
 
 <!--
 **P-riyanka-prasad/P-riyanka-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
