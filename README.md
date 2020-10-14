@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://twitter.com/Priyank43692137">
+<a href="">
 <img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/priyanka-prasad-/">
