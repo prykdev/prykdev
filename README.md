@@ -83,7 +83,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 
-![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
+<!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
 
 
 **Languages and Tools:**
