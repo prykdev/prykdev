@@ -99,12 +99,11 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)](https://github.com/anuraghazra/Python_codecademy_projects)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)]
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=WebDev_codecademy_projects&theme=tokyonight)]
 
 
 ![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-riyanka-prasad&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=P-riyanka-prasad&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)](https://github.com/anuraghazra/WebDev_codecademy_projects)
-
+[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=P-riyanka-prasad&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)]
