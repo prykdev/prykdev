@@ -1,32 +1,10 @@
 ### Hi there  <img src="https://raw.githubusercontent.com/tobimori/tobimori/main/wave.gif" width="50"><br>
 
-<!--
-**P-riyanka-prasad/P-riyanka-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
- 
- 
- <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
  
  <h2 align="center">Welcome To My Repository</h2>
  <p align="center">Priyanka Prasad </p>
 </p>
-
-
-
-
 
 <p align="center"> 
   Visitor count<br>
@@ -41,7 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/priyanka-prasad-/">
 <img align="left" alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Priyanka Prasad:Tec-177">
+<a href="https://t.me/its_no_priya">
 <img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/technology.warriors/">
@@ -61,8 +39,6 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 [![GitHub Game of Life](https://github4life.herokuapp.com/P-riyanka-prasad.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
 
 
-
-
 **Talking about Personal Stuffs:**
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
@@ -78,10 +54,9 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 
-## Connect with Me 🤝🏻
+## My Contributions
 
-
-
+  <img src="https://activity-graph.herokuapp.com/graph?username=P-riyanka-prasad&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
 
 <!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
 
