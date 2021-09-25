@@ -22,7 +22,7 @@
 <a href="https://t.me/its_no_priya">
 <img align="left" alt="priyanka prasad" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/technology.warriors/">
+<a href="https://www.instagram.com/devstrons/">
 <img align="left" alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
