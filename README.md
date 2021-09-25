@@ -42,11 +42,11 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 **Talking about Personal Stuffs:**
   
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
+<!--- 👯 I’m looking to collaborate and make any tech community-->
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
 - 🌱 I’m currently learning ML 
 - 💬 Ask me about anything, I am happy to help
-<!--- 👯 I’m looking to collaborate and make any tech community-->
 - 😄 Pronouns She/Her
 - ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Devstrons](https://www.instagram.com/devstrons/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
@@ -81,4 +81,4 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 ![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-riyanka-prasad&theme=tokyonight)
 
-[![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=P-riyanka-prasad&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)]
+![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=P-riyanka-prasad&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
