@@ -74,8 +74,8 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)]
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=WebDev_codecademy_projects&theme=tokyonight)]
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=Python_codecademy_projects&theme=tokyonight)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=P-riyanka-prasad&repo=WebDev_codecademy_projects&theme=tokyonight)
 
 
 ![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=P-riyanka-prasad&show_icons=true&theme=tokyonight)
