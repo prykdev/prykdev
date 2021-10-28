@@ -2,13 +2,8 @@
 
 <p align="center">
  
- <h2 align="center">Welcome To My Repository</h2>
+ <h2 align="center">Welcome To GitHub Profile</h2>
  <p align="center">Priyanka Prasad </p>
-</p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/P-riyanka-prasad/count.svg" />
 </p>
 
 
