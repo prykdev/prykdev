@@ -40,18 +40,17 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 **Talking about Personal Stuffs:**
-  
+ 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/3oriNVxzbi9TWCFZF6/giphy.gif" />
 <!--- 👯 I’m looking to collaborate and make any tech community-->
 
 - 👧 I’m currently partcipating in as much Hackathons as I can 
-- 🌱 I’m currently learning ML 
+- 🌱 I’m currently learning MERN
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns She/Her
-- ⚡️ Fun-Fact  aI started writing blogs, [DEV blog](https://dev.to/priyankaprasad) in 2020 Also made a tech insta account [Devstrons](https://www.instagram.com/devstrons/)
+- ⚡️ Fun-Fact  aI started writing blogs, [Hashnode blog](https://priyankaprasad.hashnode.dev/) in 2020 | Tech account [Devstrons](https://www.instagram.com/devstrons/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
 - 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
-
 
 
 ## My Contributions
