@@ -36,7 +36,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 
 
 ## My GitHub contributions as a Game of Life
-[![GitHub Game of Life](https://github4life.herokuapp.com/P-riyanka-prasad.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
+[![GitHub Game of Life](https://github4life.herokuapp.com/prykdev.gif?z=6)](https://github4life.herokuapp.com/P-riyanka-prasad)
 
 
 **Talking about Personal Stuffs:**
