@@ -50,7 +50,7 @@ Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India, currently 
 - 😄 Pronouns She/Her
 - ⚡️ Fun-Fact  aI started writing blogs, [Hashnode blog](https://priyankaprasad.hashnode.dev/) in 2020 | Tech account [Devstrons](https://www.instagram.com/devstrons/)
 - 📫 How to reach me:priyankaafssulur@gmail.com
-- 📝[Resume](https://www.linkedin.com/in/priyanka-prasad-/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAACwStgIB-o9hfF7evO6535o5_rwjkOY1904,1592374205925)/)
+- 📝[Resume](https://www.linkedin.com/in/prykdev/)
 
 
 ## My Contributions
