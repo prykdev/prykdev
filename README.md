@@ -32,7 +32,7 @@
 
 **Just a Introduction:**
 
-Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India completed my undergraduation from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies, Currently working in shiprocket as a Graduate Engineering Trainee. I'm Ex Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), Intern 👧💻 [@gurugram police](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
+Hi, I'm Priyanka prasad, A Student and Lerner 🚀 from Bihar, India completed my undergraduation from Rajasthan University Maharani college and I am passionate about technology and want to learn & explore new technologies, Currently working in shiprocket as a Graduate Engineering Trainee. I'm Ex Chapter lead at 💻 [@girlscript jaipur](https://www.linkedin.com/showcase/girlscript-jaipur/), [@gurugram police](https://www.linkedin.com/company/haryana/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BK5mgjdLUQtCDPzyY94K2bg%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-background_details_company), Internee 👧💼. Beside's Computer Science, I love photography,cooking and playing basketball.
 
 
 ## My GitHub contributions as a Game of Life
